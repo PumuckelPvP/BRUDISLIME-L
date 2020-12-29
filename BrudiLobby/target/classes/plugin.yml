@@ -1,0 +1,7 @@
+name: BrudiLobby
+version: 0.2
+auhtor: BungeeCommand
+main: de.BrudiSlime.BrudiLobby.BrudiLobby
+
+commands:
+  coins:
